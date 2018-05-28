@@ -1,0 +1,26 @@
+<table border="1">
+    <thead>
+        <tr>
+            <th>Datos</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Nombre</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Apellido</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Direccion</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>DNI</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
